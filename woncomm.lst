@@ -1,0 +1,22 @@
+// Server Lists
+//
+Titan
+{
+	half-life.east.won.net
+	half-life.west.won.net
+}
+
+Auth
+{
+	209.67.71.138:6002
+}
+
+SMS
+{
+	207.153.132.168:27010
+}
+
+CMS
+{
+	207.153.132.168:27011
+}
